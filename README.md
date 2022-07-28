@@ -3,7 +3,16 @@
 
 # 트렌드를 만드는 사람입니다.
 
+<br>
+<br>
 
+
+<h3 align="center">🚀 Solved.ac 🚀</h3>
+<div align="center">
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dodolist)](https://solved.ac/dodolist)
+
+</div>
 
 <!--
 **Dodolist/Dodolist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
