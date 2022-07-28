@@ -1,4 +1,9 @@
-### Hi there 👋
+<img src="https://user-images.githubusercontent.com/43953794/181515291-6ba8c1b9-f2c8-4005-b93c-20973fdd14f1.png" width="100%">
+</img>
+
+# 트렌드를 만드는 사람입니다.
+
+
 
 <!--
 **Dodolist/Dodolist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
