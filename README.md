@@ -34,6 +34,15 @@
   
 </div>
 
+<br>
+<br>
+<h3 align="center">✏️ Top Langs ✏️</h3>
+<div align="center">
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dodolist&layout=compact)
+  
+</div>
+
 
 <br>
 <br>
