@@ -1,8 +1,12 @@
 <!--img src="https://user-images.githubusercontent.com/43953794/181515291-6ba8c1b9-f2c8-4005-b93c-20973fdd14f1.png" width="100%">
 </img-->
 
-<img src="https://user-images.githubusercontent.com/43953794/226375093-5a77c985-def2-4e29-8efc-fefa116bb084.png" width="100%">
+<!--img src="https://user-images.githubusercontent.com/43953794/226375093-5a77c985-def2-4e29-8efc-fefa116bb084.png" width="100%">
+</img-->
+
+<img src="https://github.com/Dodolist/Dodolist/assets/43953794/e002ff8d-e58f-49fa-9176-9385f1276d33" width="100%">
 </img>
+
 
 <div align="center">
 <h1>
