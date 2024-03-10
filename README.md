@@ -4,7 +4,7 @@
 <!--img src="https://user-images.githubusercontent.com/43953794/226375093-5a77c985-def2-4e29-8efc-fefa116bb084.png" width="100%">
 </img-->
 
-<img src="https://github.com/Dodolist/Dodolist/assets/43953794/74120de8-9b80-4361-b06b-f67a0d8ccf8f" width="100%">
+<img src="https://github.com/Dodolist/Dodolist/assets/43953794/4e4b1825-b367-476e-8ae0-43fd4c168284" width="100%">
 </img>
 
 
@@ -44,21 +44,15 @@
 </p-->
 
 <br>
-<h3 align="center">💻 My Github Stats 💻</h3>
-<div align="center">
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dodolist&show_icons=true&theme=tokyonight&count_private=false)
-  
-</div>
-
 <br>
-<h3 align="center">✏️ Top Langs ✏️</h3>
-<div align="center">
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dodolist&layout=compact)
-  
-</div>
 
+<div align="center">
+
+|<h3 align="center">💻 My Github Stats 💻</h3>|<h3 align="center">✏️ Top Langs ✏️</h3>|
+|------|---|
+|![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dodolist&show_icons=true&theme=tokyonight&count_private=false)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dodolist&layout=compact)|
+
+</div>
 <br>
 
 <!--h3 align="center">🚀 Solved.ac 🚀</h3>
