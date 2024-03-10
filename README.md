@@ -4,11 +4,11 @@
 <!--img src="https://user-images.githubusercontent.com/43953794/226375093-5a77c985-def2-4e29-8efc-fefa116bb084.png" width="100%">
 </img-->
 
-<img src="https://github.com/Dodolist/Dodolist/assets/43953794/e002ff8d-e58f-49fa-9176-9385f1276d33" width="100%">
+<img src="https://github.com/Dodolist/Dodolist/assets/43953794/74120de8-9b80-4361-b06b-f67a0d8ccf8f" width="100%">
 </img>
 
 
-<div align="center">
+<!--div align="center">
 <h1>
 트렌드를 만드는 개발자입니다.
 </h1>
@@ -41,9 +41,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Figma-F86E60?style=for-the-badge&logo=Figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Adobe XD-F75EEE?style=for-the-badge&logo=Adobe XD&logoColor=white"/>
-</p>
+</p-->
 
-<br>
 <br>
 <h3 align="center">💻 My Github Stats 💻</h3>
 <div align="center">
@@ -53,7 +52,6 @@
 </div>
 
 <br>
-<br>
 <h3 align="center">✏️ Top Langs ✏️</h3>
 <div align="center">
   
@@ -61,16 +59,14 @@
   
 </div>
 
-
-<br>
 <br>
 
-<h3 align="center">🚀 Solved.ac 🚀</h3>
+<!--h3 align="center">🚀 Solved.ac 🚀</h3>
 <div align="center">
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dodolist)](https://solved.ac/dodolist)
 
-</div>
+</div-->
 
 <!--
 **Dodolist/Dodolist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
