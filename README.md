@@ -4,7 +4,7 @@
 <!--img src="https://user-images.githubusercontent.com/43953794/226375093-5a77c985-def2-4e29-8efc-fefa116bb084.png" width="100%">
 </img-->
 
-<img src="https://github.com/Dodolist/Dodolist/assets/43953794/4e4b1825-b367-476e-8ae0-43fd4c168284" width="100%">
+<img src="https://github.com/Dodolist/Dodolist/assets/43953794/942fc277-eaa9-47ee-998c-db84defe0b86" width="100%">
 </img>
 
 
